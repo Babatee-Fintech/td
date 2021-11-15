@@ -1,3 +1,4 @@
  Welcome to TD bank
  Your financial partner 
- Bug removed from the application
+Open an account with TD and get $300
+Bug removed from the application
